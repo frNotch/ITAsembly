@@ -1,0 +1,39 @@
+C:\Users\itsjo\source\repos\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode 1.0.csprojAssemblyReference.cache
+C:\Users\itsjo\source\repos\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode_1._0.JohnCode.resources
+C:\Users\itsjo\source\repos\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode_1._0.Properties.Resources.resources
+C:\Users\itsjo\source\repos\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode 1.0.csproj.GenerateResource.cache
+C:\Users\itsjo\source\repos\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode 1.0.csproj.CoreCompileInputs.cache
+C:\Users\itsjo\source\repos\JohnCode 1.0\JohnCode 1.0\bin\Debug\JohnCode 1.0.exe.config
+C:\Users\itsjo\source\repos\JohnCode 1.0\JohnCode 1.0\bin\Debug\JohnCode 1.0.exe
+C:\Users\itsjo\source\repos\JohnCode 1.0\JohnCode 1.0\bin\Debug\JohnCode 1.0.pdb
+C:\Users\itsjo\source\repos\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode 1.0.exe
+C:\Users\itsjo\source\repos\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode 1.0.pdb
+C:\Users\itsjo\OneDrive\Desktop\JohnCode 1.0\JohnCode 1.0\bin\Debug\JohnCode 1.0.exe.config
+C:\Users\itsjo\OneDrive\Desktop\JohnCode 1.0\JohnCode 1.0\bin\Debug\JohnCode 1.0.exe
+C:\Users\itsjo\OneDrive\Desktop\JohnCode 1.0\JohnCode 1.0\bin\Debug\JohnCode 1.0.pdb
+C:\Users\itsjo\OneDrive\Desktop\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode 1.0.csprojAssemblyReference.cache
+C:\Users\itsjo\OneDrive\Desktop\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode_1._0.JohnCode.resources
+C:\Users\itsjo\OneDrive\Desktop\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode_1._0.Properties.Resources.resources
+C:\Users\itsjo\OneDrive\Desktop\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode 1.0.csproj.GenerateResource.cache
+C:\Users\itsjo\OneDrive\Desktop\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode 1.0.exe
+C:\Users\itsjo\OneDrive\Desktop\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode 1.0.pdb
+C:\Users\itsjo\Desktop\Code\JohnCode 1.0\JohnCode 1.0\bin\Debug\JohnCode 1.0.exe.config
+C:\Users\itsjo\Desktop\Code\JohnCode 1.0\JohnCode 1.0\bin\Debug\JohnCode 1.0.exe
+C:\Users\itsjo\Desktop\Code\JohnCode 1.0\JohnCode 1.0\bin\Debug\JohnCode 1.0.pdb
+C:\Users\itsjo\Desktop\Code\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode 1.0.csprojAssemblyReference.cache
+C:\Users\itsjo\Desktop\Code\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode_1._0.JohnCode.resources
+C:\Users\itsjo\Desktop\Code\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode_1._0.Properties.Resources.resources
+C:\Users\itsjo\Desktop\Code\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode 1.0.csproj.GenerateResource.cache
+C:\Users\itsjo\Desktop\Code\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode 1.0.csproj.CoreCompileInputs.cache
+C:\Users\itsjo\Desktop\Code\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode 1.0.exe
+C:\Users\itsjo\Desktop\Code\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode 1.0.pdb
+C:\Users\johnn\OneDrive\Desktop\code\C#\JohnCode 1.0\JohnCode 1.0\bin\Debug\JohnCode 1.0.exe.config
+C:\Users\johnn\OneDrive\Desktop\code\C#\JohnCode 1.0\JohnCode 1.0\bin\Debug\JohnCode 1.0.exe
+C:\Users\johnn\OneDrive\Desktop\code\C#\JohnCode 1.0\JohnCode 1.0\bin\Debug\JohnCode 1.0.pdb
+C:\Users\johnn\OneDrive\Desktop\code\C#\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode 1.0.csprojAssemblyReference.cache
+C:\Users\johnn\OneDrive\Desktop\code\C#\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode_1._0.JohnCode.resources
+C:\Users\johnn\OneDrive\Desktop\code\C#\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode_1._0.Properties.Resources.resources
+C:\Users\johnn\OneDrive\Desktop\code\C#\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode 1.0.csproj.GenerateResource.cache
+C:\Users\johnn\OneDrive\Desktop\code\C#\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode 1.0.csproj.CoreCompileInputs.cache
+C:\Users\johnn\OneDrive\Desktop\code\C#\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode 1.0.exe
+C:\Users\johnn\OneDrive\Desktop\code\C#\JohnCode 1.0\JohnCode 1.0\obj\Debug\JohnCode 1.0.pdb
